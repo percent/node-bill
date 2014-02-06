@@ -1,0 +1,22 @@
+{
+  "name": "bill",
+  "version": "0.0.1",
+  "description": "Billing provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/percent/node-bill.git"
+  },
+  "author": "pgte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/percent/node-bill/issues"
+  },
+  "homepage": "https://github.com/percent/node-bill",
+  "dependencies": {
+    "stripe": "~2.4.0"
+  }
+}
